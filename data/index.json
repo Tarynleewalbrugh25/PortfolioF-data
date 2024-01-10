@@ -1,18 +1,4 @@
 {
-    "jobTitle": [
-        {
-            "title": "aspiring  software developer",
-            "color": "rgb(57, 153, 0)"
-        },
-        {
-            "title": "a Student",
-            "color": "rgb(157, 100, 0)"
-        }   
-    ],
-    "about": [
-        "I matriculated in 2019 , went to North link to study Civil Engineering it is here where i obtained an N4 in Building and Civil",
-        "At the moment im learning coding and enjoying it . in my free time i read a lot and make practice websites for my locals."
-    ],
     "education": [
         {
             "id": 1,
@@ -59,27 +45,39 @@
     ],
     "testimonials": [
         {
-            "name": "N",
-            "surname": "W",
-            "quotes": "lorem",
+            "name": "Nathalie",
+            "surname": "Willimse",
+            "quotes": "Taryn Lee is a gem. She is very knowlegdeable and wise. She is super kind and always willing to help. She is very friendly and makes new friends everywhere. She is a people's person and enjoy being around people. I am  very honored to be in her class and being here peer.",
             "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
         },
         {
             "name": "Jason ",
             "surname": "September",
-            "quotes": "lorem",
+            "quotes": "Taryn-lee Walbrugh is an outstanding individual I enjoy working with her, she always promotes positivity , great communicative skills and has unmatched enthusiasm and determination. She is the ideal work colleague but mainly a wonderful companion and friend.",
             "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
         },
         {
-            "name": "A",
-            "surname": "j",
-            "quotes": "lorem",
+            "name": "Anathi",
+            "surname": "josefu",
+            "quotes": "Taryn-lee Walbrugh is a highly dedicated and inquisitive individual with unwavering focus on achieving projects  goals.She is consistently exhibited a strong commitment to learning and problem-solving</p>",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
         {
             "name": "Seth",
-            "surname": "T",
-            "quotes": "lorem",
+            "surname": "Tobias",
+            "quotes": "Taryn-lee is a wonderful individual. She is a very caring and honest individual.She is also a very well organized  and knows what she wants. She gets the things she needs to do done. Quickly and efficiently. She is also very effective at management.  She will be a great asset to any organization.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Joel",
+            "surname": "Mukanya",
+            "quotes": "Taryn-lee is a creative, goal-getter, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Ntokozo",
+            "surname": "s",
+            "quotes": "Taryn-lee is a creative, goal-getter, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         }
     ],
