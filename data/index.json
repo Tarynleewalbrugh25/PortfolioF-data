@@ -6,7 +6,7 @@
             "description": "Matriculated",
             "place": "Princeton High School",
             "type": "National Senior Certificate",
-            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+            "certificate": ""
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "description": "I got my N1 and N2 certificates",
             "place": "North Link college",
             "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+            "certificate": ""
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "description": "I got my N3 and N4 certificates",
             "place": "North link college",
             "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+            "certificate": ""
         }
     ],
     "skills": [
@@ -54,7 +54,15 @@
             "name": "Jason ",
             "surname": "September",
             "quotes": "Taryn-lee Walbrugh is an outstanding individual I enjoy working with her, she always promotes positivity , great communicative skills and has unmatched enthusiasm and determination. She is the ideal work colleague but mainly a wonderful companion and friend.",
+<
+
+            "profile": ""
+
             "profile": "https://drive.google.com/uc?id=1Y7DtcI98LKiNJo5LPi_KlMDRlKipynLt"
+
+
+            "profile": "https://drive.google.com/uc?id=1Y7DtcI98LKiNJo5LPi_KlMDRlKipynLt"
+
         },
         {
             "name": "Anathi",
